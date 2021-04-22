@@ -1,74 +1,56 @@
 {
     "data": [
         {
-            "id": 1,
+           
             "name": "product one",
             "description": "product description...",
-            "price": "200",
-            "img": "https://reqres.in/img/faces/1-image.jpg"
+            "price": "200"
         },
         {
-            "id": 2,
             "name": "product two",
             "description": "product description...",
-            "price": "300",
-            "img": "https://reqres.in/img/faces/2-image.jpg"
+            "price": "300"
         },
         {
-            "id": 3,
             "name": "product three",
             "description": "product description...",
-            "price": "400",
-            "img": "https://reqres.in/img/faces/3-image.jpg"
+            "price": "400"
         },
         {
-            "id": 4,
             "name": "product four",
             "description": "product description...",
-            "price": "500",
-            "img": "https://reqres.in/img/faces/4-image.jpg"
+            "price": "500"
         },
         {
-            "id": 5,
             "name": "product five",
             "description": "product description...",
-            "price": "8000",
-            "img": "https://reqres.in/img/faces/5-image.jpg"
+            "price": "8000"
         },
         {
-            "id": 6,
             "name": "product six",
             "description": "product description...",
-            "price": "75000",
-            "img": "https://reqres.in/img/faces/6-image.jpg"
+            "price": "75000"
         },
         {
-            "id": 7,
             "name": "product seven",
             "description": "product description...",
-            "price": "10000",
-            "img": "https://reqres.in/img/faces/7-image.jpg"
+            "price": "10000"
         },
         {
-            "id": 8,
+          
             "name": "product eight",
             "description": "product description...",
-            "price": "7200",
-            "img": "https://reqres.in/img/faces/8-image.jpg"
+            "price": "7200"
         },
         {
-            "id": 9,
             "name": "product nine",
             "description": "product description...",
-            "price": "3900",
-            "img": "https://reqres.in/img/faces/9-image.jpg"
+            "price": "3900"
         },
         {
-            "id": 10,
             "name": "product ten",
             "description": "product description...",
-            "price": "4900",
-            "img": "https://reqres.in/img/faces/10-image.jpg"
+            "price": "4900"
         }
     ]
 }
