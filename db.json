@@ -1,5 +1,5 @@
 {
-   
+   [
         {
             "name": "product one",
             "description": "product description...",
@@ -51,4 +51,5 @@
             "description": "product description...",
             "price": "4900"
         }
+   ]
 }
